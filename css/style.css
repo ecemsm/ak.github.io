@@ -28,7 +28,6 @@ body {
   -o-transition: 0.5s;
   transition: 0.5s;
 }
-
 .offcanvas #page {
   overflow: hidden;
   position: absolute;
@@ -83,32 +82,6 @@ h1, h2, h3, h4, h5, h6, figure {
 ::selection {
   color: #fff;
   background: #F14E95;
-}
-
-.google-maps {
-
-  position: relative;
-
-  padding-bottom: 75%; // This is the aspect ratio
-
-  height: 0;
-
-  overflow: hidden;
-
-}
-
-.google-maps iframe {
-
-  position: absolute;
-
-  padding: 10px;
-
-  padding: 10px;
-
-  width: 100% !important;
-
-  height: 100% !important;
-
 }
 
 .fh5co-nav {
